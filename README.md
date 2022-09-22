@@ -1,6 +1,8 @@
 # writingAndReadingObjectsWithNumbersWithInputAndFixedNames
 writing And Reading Objects With Numbers With Input And Fixed Names. just practice. java 2
 
+![output](https://github.com/bell-kevin/writingAndReadingObjectsWithNumbersWithInputAndFixedNames/blob/main/gettingCloser.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
